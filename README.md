@@ -1,16 +1,14 @@
-## Hi there 👋
+# Computer Science Undergraduate | AI and NLP Researcher
 
-<!--
-**pooyadadgar/pooyadadgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on advanced computing, specifically investigating optimization techniques and architectural efficiencies in Natural Language Processing and Large Language Models.
 
-Here are some ideas to get you started:
+## Research Focus
+- Core Fields: Natural Language Processing, Large Language Models
+- Methodologies: Parameter-Efficient Fine-Tuning (PEFT), Model Quantization, Deep Learning Optimization
+  
+## Current Objectives
+- Implementing efficient fine-tuning pipelines for Open-Source LLMs
+- Conducting benchmark analysis on model quantization strategies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Activity Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooyadadgar&show_icons=true&theme=dark)
